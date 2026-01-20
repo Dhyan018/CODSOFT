@@ -1,4 +1,4 @@
-# **Titanic Survival Prediction**
+# **Task 1 : Titanic Survival Prediction**
 
 This project focuses on predicting whether a passenger survived the Titanic disaster using machine learning techniques based on passenger information.
 
