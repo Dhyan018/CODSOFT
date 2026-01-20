@@ -1,9 +1,7 @@
-# **Movie Rating Prediction**
+# **IMDb Movie Rating Prediction**
 
 This project focuses on predicting the rating of a movie using machine learning regression techniques based on various movie-related features such as genre, director, and actors.
-
 The Movie Rating Prediction problem helps in understanding how different attributes of a movie influence its overall rating given by users or critics.
-
 The objective of this project is to build a regression model that can accurately estimate movie ratings from historical data.
 
 ## **Dataset**
