@@ -60,9 +60,9 @@ Data preprocessing included handling missing values, encoding categorical variab
 
 The model was evaluated using regression performance metrics such as:
 
-* Mean Squared Error (MSE)
+* Mean Squared Error (MSE): ~0.55
 
-* R² Score
+* R² Score: ~0.68
 
 ## **Sample Results**
 
