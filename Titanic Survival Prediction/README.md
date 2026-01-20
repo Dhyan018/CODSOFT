@@ -1,4 +1,4 @@
-Titanic Survival Prediction
+#**Titanic Survival Prediction**
 
 This project focuses on predicting whether a passenger survived the Titanic disaster using machine learning techniques based on passenger information.
 
@@ -6,92 +6,92 @@ The Titanic Survival Prediction problem is a classic beginner-friendly machine l
 
 The goal of this project is to classify passengers into:
 
-Survived
+* Survived
 
-Not Survived
+* Not Survived
 
 The prediction is performed using machine learning models trained on passenger-related features.
 
-This project is developed as part of the CODSOFT Data Science Internship.
+#**Dataset**
 
-Dataset
+* Dataset: Titanic Dataset
 
-Dataset Name: Titanic Dataset
+* Source: Kaggle Titanic Dataset
 
-Source: Kaggle Titanic Dataset
-
-Total Records: 891
+* Total Records: 891
 
 Features:
 
-Passenger Class (Pclass)
+* Passenger Class (Pclass)
 
-Sex
+* Sex
 
-Age
+* Age
 
-Fare
+* Fare
 
-Number of Siblings/Spouses aboard (SibSp)
+* Number of Siblings/Spouses aboard (SibSp)
 
-Number of Parents/Children aboard (Parch)
+* Number of Parents/Children aboard (Parch)
 
-Target Variable
+#**Target Variable**
 
 Survived
 
-0 → Not Survived
+* 0 → Not Survived
 
-1 → Survived
+* 1 → Survived
 
-Technologies Used
+#**Technologies Used**
 
-Python
+* Python
 
-Jupyter Notebook
+* Jupyter Notebook
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
-Seaborn
+* Seaborn
 
-Machine Learning Model Used
+#**Machine Learning Model Used**
 
-Logistic Regression
+* Logistic Regression
 
 Categorical variables were converted into numerical values, and missing values were handled during preprocessing to improve model performance.
 
-Model Evaluation
+#**Model Evaluation**
 
 The model was evaluated using the following metrics:
 
-Training Accuracy
+* Training Accuracy
 
-Testing Accuracy
+* Testing Accuracy
 
-Confusion Matrix
+* Confusion Matrix
 
-Sample Results
+#**Sample Results**
 
-Model Accuracy: ~80%
+Model Accuracy: ~80% 
 
-Conclusion
+The model demonstrates good performance for a beginner-level classification problem.
+
+#**Conclusion**
 
 This project demonstrates the complete machine learning workflow, including:
 
-Data loading
+* Data loading
 
-Data cleaning and preprocessing
+* Data cleaning and preprocessing
 
-Feature encoding
+* Feature encoding
 
-Model training
+* Model training
 
-Model evaluation
+* Model evaluation
 
-Prediction
+* Prediction
 
-Scikit-learn
+* Scikit-learn
