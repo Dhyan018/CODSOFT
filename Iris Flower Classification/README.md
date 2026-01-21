@@ -83,3 +83,23 @@ The performance of the models was evaluated using:
 * KNN: ~95–100%
 
 * Decision Tree Classifier: ~96%
+
+## **Model Testing**
+
+The trained models were also tested on new input data to predict the iris flower species.
+
+## **Conclusion**
+
+This project demonstrates the complete machine learning workflow:
+
+* Data Loading
+
+* Data Preprocessing
+
+* Model Training
+
+* Model Evaluation
+
+* Prediction
+
+It serves as a strong foundation for understanding classification problems and machine learning concepts.
