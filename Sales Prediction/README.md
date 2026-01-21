@@ -48,9 +48,9 @@ Continuous numerical value representing product sales
 
 The model was evaluated using regression metrics such as:
 
-* Mean Squared Error (MSE)
-
 * R² Score
+
+* Mean Squared Error (MSE)
 
 ## **Sample Results**
 
